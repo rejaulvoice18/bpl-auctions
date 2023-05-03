@@ -1,0 +1,49 @@
+.all-players{
+    
+}
+.navigation{
+    background-color: goldenrod;
+}
+.header{
+    text-align: center;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    border-right: 1px solid white;
+}
+nav ul > :first-child{
+    border-left: 1px solid white;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+}
+nav ul li:hover{
+    background-color: gray;
+    color: white;
+}
+nav ul li a:hover{
+    color: white;
+}
+/* All Players Container styling*/
+
+.all-players-container{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.all-players-list{
+    width: 60%;
+}
+.auction-players{
+    width: 30%;
+    margin-left: 5%;
+}

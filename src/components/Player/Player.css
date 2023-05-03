@@ -1,0 +1,26 @@
+.single-player{
+    display:flex;
+    margin: 20px 0;
+    border: 2px solid blue;
+}
+.player-image img{
+    width: 230px;
+    height: 250px;
+    margin-right: 20px;
+}
+.player-details{
+    margin-left: 40px;
+}
+.title-styling{
+    font-weight: 700;
+}
+.single-player-button{
+    background-color: blue;
+    padding: 6px 18px;
+    font-size: 15px;
+    border: none;
+    margin-top: 30px;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+}

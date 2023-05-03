@@ -1,0 +1,16 @@
+.salary-details{
+    border: 2px solid blue;
+    margin-top: 20px;
+    padding: 10px;
+}
+.salary-details h2{
+    text-align: center;
+}
+.title-style{
+    color: blue;
+    font-weight: 700;
+}
+.total-salary{
+    color: tomato;
+    font-weight: 700;
+}

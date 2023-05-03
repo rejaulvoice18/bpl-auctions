@@ -1,0 +1,107 @@
+[{
+    "id": 1,
+    "name": "Tamim Iqbal",
+    "age": 36,
+    "country": "Bangladesh",
+    "salary": 8000000,
+    "picture": "https://telugustop.com/wp-content/uploads/2022/07/bangladesh-odi-skipper-tamim-iqbal-announces-retirement-from-t20i-cricket-latest-eng-news-1494933.jpg"
+    
+  }, {
+    "id": 2,
+    "name": "Sakib Al Hasan",
+    "age": 38,
+    "country": "Bangladesh",
+    "salary": 8000000,
+    "picture": "https://img.wegreenkw.com/sites/4/2023/03/Shakib-Al-Hasan.webp"
+  }, {
+    "id": 3,
+    "name": "Mahmudullah Riadh",
+    "age": 38,
+    "country": "Bangladesh",
+    "salary": 8000000,
+    "picture": "https://pbs.twimg.com/profile_images/1181450736200060929/ibu_otes_400x400.jpg"
+  }, {
+    "id": 4,
+    "name": "Mushfiqur Rahman",
+    "age": 38,
+    "country": "Bangladesh",
+    "salary": 5000000,
+    "picture": "https://e0.365dm.com/18/02/768x576/skysports-mushfiqur-rahman-bangladesh-portrait_4232696.jpg?20180216112112"
+  }, {
+    "id": 5,
+    "name": "Mashrafi Bin Mortuza",
+    "age": 40,
+    "country": "Bangladesh",
+    "salary": 8000000,
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mashrafe_Bin_Mortaza_%28cropped%29.jpg"
+  }, {
+    "id": 6,
+    "name": "Liton Das",
+    "age": 32,
+    "country": "Bangladesh",
+    "salary": 8000000,
+    "picture": "https://www.bssnews.net/assets/news_photos/2022/12/03/image-97737-1670071977.jpg"
+  }, {
+    "id": 7,
+    "name": "Soumya Sarkar",
+    "age": 32,
+    "country": "Bangladesh",
+    "salary": 800000,
+    "picture": "https://cricclubs.com/documentsRep/profilePics/9349fd27-0f26-4f23-b1b5-e48cd3284c55.png"
+  }, {
+    "id": 8,
+    "name": "Sabbir Rahman",
+    "age": 33,
+    "country": "Bangladesh",
+    "salary": 5000000,
+    "picture": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893490-e1520011381871.jpg"   
+  }, {
+    "id": 9,
+    "name": "Taskin Ahmed",
+    "age": 35,
+    "country": "Bangladesh",
+    "salary": 8000000,
+    "picture": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893434-e1520608434902.jpg"
+  }, {
+    "id": 10,
+    "name": "Mustafizur Rahman",
+    "age": 30,
+    "country": "Bangladesh",
+    "salary": 800000,
+    "picture": "https://pbs.twimg.com/media/FMNrDdZaAAEBmRP?format=jpg&name=large"
+  }, {
+    "id": 11,
+    "name": "Afif Hossain",
+    "age": 28,
+    "country": "Bangladesh",
+    "salary": 5000000,
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Afif_Hossain.jpg/1200px-Afif_Hossain.jpg"
+  }, {
+    "id": 12,
+    "name": "Saifuddin",
+    "age": 33,
+    "country": "Bangladesh",
+    "salary": 5000000,
+    "picture": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg"
+  }, {
+    "id": 13,
+    "name": "Rony Talukdar",
+    "age": 36,
+    "country": "Bangladesh",
+    "salary": 8000000,
+    "picture": "https://media.gettyimages.com/id/1472307425/fr/photo/rony-talukdar-of-bangladesh-during-the-1st-t20-international-between-bangladesh-and-england.jpg?s=1024x1024&w=gi&k=20&c=WScWt4dBK0wJComrbSpU5GzYvFa3AL-GMBM-iWwtJ-I="
+  }, {
+    "id": 14,
+    "name": "Mehidy Hasan",
+    "age": 30,
+    "country": "Bangladesh",
+    "salary": 8000000,
+    "picture": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRYJCZbKNlCPPMtyQB8q17J1rhhdBLVM_VQcG3A2J6d99GCzzzWjiXMF8dtihE1SDxlsScX3K8lyCSQzPw"
+  }, {
+    "id": 15,
+    "name": "Towhid Hridoy",
+    "age": 30,
+    "country": "Bangladesh",
+    "salary": 8000000,
+    "picture": "https://admin.dailycricket.com.bd/storage/posts/15802/Tawhid-Hridoy.jpg"
+  }]
